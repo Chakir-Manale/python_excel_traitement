@@ -1,0 +1,8 @@
+API_NE.EXP.GNFS.KD_DS2_fr_excel_v2_1233725:Exportations totales en $ constants
+API_NY.GDP.MKTP.PP.KD_DS2_fr_excel_v2_1226704:PIB en PPA internationaux constants
+API_BX.KLT.DINV.CD.WD_DS2_fr_excel_v2_1226807:IDE entrants en $ constants (Courants disponible)
+API_FI.RES.TOTL.CD_DS2_fr_excel_v2_1226439:Total des réserves (comprend l’or, $ US courants)
+API_FI.RES.XGLD.CD_DS2_fr_excel_v2_1220288:Total des réserves sans l’or ($ US courants)
+API_NY.GDP.MKTP.KD_DS2_fr_excel_v2_1224289:PIB ($ US constants de 2010)
+API_FP.CPI.TOTL.ZG_DS2_fr_excel_v2_1226787:Inflation, prix à la consommation (% annuel)
+API_NY.GDP.DEFL.KD.ZG_DS2_fr_excel_v2_1227284:Inflation, déflateur du PIB (% annuel)

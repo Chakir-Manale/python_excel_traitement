@@ -1,0 +1,3 @@
+API_SL.AGR.EMPL.ZS_DS2_fr_excel_v2_1005617:Emplois_dans_l’agriculture
+API_SL.IND.EMPL.ZS_DS2_fr_excel_v2_1003401:Emplois_dans_l’industrie
+API_SL.SRV.EMPL.ZS_DS2_fr_excel_v2_1024240:Emplois_dans_les services
